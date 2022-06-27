@@ -1,0 +1,126 @@
+body{
+background-color: white;
+  margin : 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+.top_container{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+
+}
+.comp-image{
+  height: 30%;
+  width:30%;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.sports{
+  height: 30%;
+  width:30%;
+  border-radius: 100px;
+  float: right;
+  margin-left: 30px;
+}
+.sam-image{
+  height: 200px;
+  width:200px;
+  border-radius: 200px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+
+}
+h1{
+  margin:60px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+      font-size: 5rem;
+      line-height: 7rem;
+    }
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.8rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+}
+.middle_container{
+
+margin-bottom: 100px;
+}
+.bottom_container{
+background-color: #66BFBF;
+padding:20px;
+color: white;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 5px 0px 0px 0px;
+  width: 10%;
+  border-color: #C2DED1;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:20%;
+
+}
+.top-cloud{
+  position : absolute;
+  left : 67%;
+  top: 15%;
+}
+.footer-link,.btn{
+  color: #11999E;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn{
+  display: inline-block;
+
+  background-image:linear-gradient(#11cdd4,#11999e);
+  color: white;
+  border-radius: 8px;
+  font-family: serif;
+  text-decoration: none;
+  padding: 15px;
+}
+.kk{
+  margin-bottom: 70px;
+}
+.btn:hover{
+    background-image:linear-gradient(#30e3cb,#2bc4ad);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    left : 50%;
+
+
+}
+
+.des{
+  width:40%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+
+}
+.skills{
+  margin-top: 100px;
+}
+
+a:hover{
+  color: white;
+}
